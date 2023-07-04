@@ -27,5 +27,5 @@ node scanJsonFile.js
 ```bash
 node scanTsFile.js
 ```
-使用该脚本可以查到i18n丢失项目，报错 en 和 zh key值一致，用于词条数目查漏补缺
+使用该脚本可以查到i18n丢失项目，保持 en 和 zh key值一致，用于词条数目查漏补缺
 
